@@ -1,0 +1,17 @@
+﻿  MY_BANK_V1.cpp
+C:\Users\ajays\source\repos\MY_BANK_V1\MY_BANK_V1.cpp(80,29): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V1\MY_BANK_V1.cpp(94,54): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V1\MY_BANK_V1.cpp(95,33): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V1\MY_BANK_V1.cpp(104,50): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V1\MY_BANK_V1.cpp(105,29): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V1\MY_BANK_V1.cpp(125,29): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V1\MY_BANK_V1.cpp(126,29): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V1\MY_BANK_V1.cpp(127,29): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V1\MY_BANK_V1.cpp(159,29): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V1\MY_BANK_V1.cpp(161,29): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V1\MY_BANK_V1.cpp(162,77): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V1\MY_BANK_V1.cpp(176,29): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V1\MY_BANK_V1.cpp(184,29): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V1\MY_BANK_V1.cpp(184,85): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V1\MY_BANK_V1.cpp(185,43): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+  MY_BANK_V1.vcxproj -> C:\Users\ajays\source\repos\MY_BANK_V1\x64\Debug\MY_BANK_V1.exe
