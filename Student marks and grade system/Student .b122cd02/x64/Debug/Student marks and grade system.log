@@ -1,0 +1,3 @@
+﻿  Student marks and grade system.cpp
+C:\Users\ajays\source\repos\Student marks and grade system\Student marks and grade system.cpp(52,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Student marks and grade system.vcxproj -> C:\Users\ajays\source\repos\Student marks and grade system\x64\Debug\Student marks and grade system.exe
