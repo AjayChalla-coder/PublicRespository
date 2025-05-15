@@ -1,0 +1,14 @@
+﻿  MY_BANK_V2.cpp
+C:\Users\ajays\source\repos\MY_BANK_V2\MY_BANK_V2.cpp(236,15): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V2\MY_BANK_V2.cpp(250,37): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V2\MY_BANK_V2.cpp(251,16): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V2\MY_BANK_V2.cpp(260,36): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V2\MY_BANK_V2.cpp(261,15): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V2\MY_BANK_V2.cpp(282,15): warning C4566: character represented by universal-character-name '\u20B9' cannot be represented in the current code page (1252)
+C:\Users\ajays\source\repos\MY_BANK_V2\MY_BANK_V2.cpp(25,6): warning C4101: 'pin': unreferenced local variable
+C:\Users\ajays\source\repos\MY_BANK_V2\MY_BANK_V2.cpp(26,9): warning C4101: 'income': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 318 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MY_BANK_V2.vcxproj -> C:\Users\ajays\source\repos\MY_BANK_V2\x64\Release\MY_BANK_V2.exe
