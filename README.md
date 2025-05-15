@@ -16,6 +16,7 @@ And always open .cpp files
 - MY_BANK_V2
 - MY_BANK_V3
 - 👆👆 These are all versions MY_BANK Project
+- VIRTUAL_PET
 
 ## Games
 - The best  -- TEXT_RPG_GAME
