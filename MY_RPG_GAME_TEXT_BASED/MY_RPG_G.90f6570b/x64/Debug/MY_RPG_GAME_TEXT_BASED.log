@@ -1,0 +1,3 @@
+﻿  MY_RPG_GAME_TEXT_BASED.cpp
+C:\Users\ajays\source\repos\MY_RPG_GAME_TEXT_BASED\MY_RPG_GAME_TEXT_BASED.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MY_RPG_GAME_TEXT_BASED.vcxproj -> C:\Users\ajays\source\repos\MY_RPG_GAME_TEXT_BASED\x64\Debug\MY_RPG_GAME_TEXT_BASED.exe
