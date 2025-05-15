@@ -12,12 +12,12 @@ Feel free to reach out via GitHub or email.
 And always open .cpp files
 
 ## Projects
-MY_BANK_V1
-MY_BANK_V2
-MY_BANK_V3
-👆👆 These are all versions MY_BANK Project
+- MY_BANK_V1
+- MY_BANK_V2
+- MY_BANK_V3
+- 👆👆 These are all versions MY_BANK Project
 
 ## Game
-The best  -- TEXT_RPG_GAME
-TIC_TAC_TOE
-ROCK_PAPER_SCISSORS
+- The best  -- TEXT_RPG_GAME
+- TIC_TAC_TOE
+- ROCK_PAPER_SCISSORS
