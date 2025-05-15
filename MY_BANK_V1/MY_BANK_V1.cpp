@@ -11,10 +11,10 @@ int main()
 {
     const int maxaccounts{ 5 };
     int accountcount{ 4 };
-    vector<string> usernames = { "ajay", "kavya", "narasimha", "sahasra" };
+    vector<string> usernames = { "ajay", "bob", "giga", "alex" };
     vector<string> passwords = { "2931", "1234", "1987", "2932" };
     vector<int> balances = { 100000, 200000, 300000, 400000 };
-    vector<string> emails = { "ajay@gmail.com", "kavya@gmail.com", "narsimha@gmail.com", "sahasra@gmail.com" };
+    vector<string> emails = { "ajay@gmail.com", "bob@gmail.com", "giga@gmail.com", "alex@gmail.com" };
     vector<string> phones = { "123456789", "8331023474", "9603229090", "987654321" };
 
     vector<string> transactionHistory;
